@@ -1,0 +1,14 @@
+﻿  Main.cpp
+  Roster.cpp
+C:\Users\a1csk\Desktop\School\C867 Scripting & Prgrmng Apps\Main\Roster.cpp(47,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\a1csk\Desktop\School\C867 Scripting & Prgrmng Apps\Main\Roster.cpp(51,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\a1csk\Desktop\School\C867 Scripting & Prgrmng Apps\Main\Roster.cpp(55,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\a1csk\Desktop\School\C867 Scripting & Prgrmng Apps\Main\Roster.cpp(59,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\a1csk\Desktop\School\C867 Scripting & Prgrmng Apps\Main\Roster.cpp(63,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\a1csk\Desktop\School\C867 Scripting & Prgrmng Apps\Main\Roster.cpp(67,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\a1csk\Desktop\School\C867 Scripting & Prgrmng Apps\Main\Roster.cpp(71,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\a1csk\Desktop\School\C867 Scripting & Prgrmng Apps\Main\Roster.cpp(75,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Student.cpp
+  Generating Code...
+  Main.vcxproj -> C:\Users\a1csk\Desktop\School\C867 Scripting & Prgrmng Apps\Main\x64\Debug\Main.exe
+  Main.vcxproj -> C:\Users\a1csk\Desktop\School\C867 Scripting & Prgrmng Apps\Main\x64\Debug\Main.pdb (Partial -> Full PDB)
